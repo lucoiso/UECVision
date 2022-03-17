@@ -1,0 +1,9 @@
+{  
+    	"ComputerVision_Endpoint" : "",
+    	"ComputerVision_SubscriptionKey" : "",
+   	"CustomVision_Endpoint" : "",
+    	"CustomVision_SubscriptionKey" : "",
+    	"CustomVision_PredictionKey" : "",
+    	"CustomVision_ProjectId" : "",
+    	"CustomVision_ModelName" : ""    
+}
