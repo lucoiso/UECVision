@@ -29,3 +29,27 @@ This project integrates Microsoft Azure Custom Vision and Microsoft Azure Comput
 
 ![image](https://user-images.githubusercontent.com/77353979/158842233-4df8f698-8c80-4b94-8c9a-8fce0e34b6b5.png)
 
+## How to get Azure Informations:
+
+**Subscription Key and Endpoint:**  
+_In your Microsoft Azure Portal - Resource Panel:_
+
+![image](https://user-images.githubusercontent.com/77353979/158847329-a81f0140-88cc-43a1-a25a-117b34ac2938.png)
+
+-------------------------------------------------
+
+**Predition Key and Model Name:**  
+_Performance tab (customvision.ai)_
+
+![image](https://user-images.githubusercontent.com/77353979/158847857-226c1bcd-91ef-467c-a3e8-4a5d6ba50186.png)  
+_Model Name appers below this button as "Published as: MODELNAME"._
+
+-------------------------------------------------
+
+**Project ID:**  
+_Settings page (customvision.ai)_
+
+![image](https://user-images.githubusercontent.com/77353979/158848457-28b69e47-0fdf-4644-bc40-b2fb4c05cda9.png)
+
+
+
