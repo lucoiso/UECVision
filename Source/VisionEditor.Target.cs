@@ -1,4 +1,5 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+// Developer: Lucas Vilas-Boas
+// Year: 2022
 
 using UnrealBuildTool;
 using System.Collections.Generic;
