@@ -39,7 +39,7 @@ _In your Microsoft Azure Portal - Resource Panel:_
 -------------------------------------------------
 
 **Predition Key and Model Name:**  
-_Performance tab (customvision.ai)_
+_Performance tab (customvision.ai): Prediction URL_
 
 ![image](https://user-images.githubusercontent.com/77353979/158847857-226c1bcd-91ef-467c-a3e8-4a5d6ba50186.png)  
 _Model Name appers below this button as "Published as: MODELNAME"._
